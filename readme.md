@@ -1,1 +1,1 @@
-# A simple website template for a Discord server
+# Dragon's Den Alliance website for a Discord server
